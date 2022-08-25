@@ -1,6 +1,3 @@
-# TC1028-Proyecto_ICT_Pingpong
-Proyecto para la clase TC1028 en el que realizo un proyecto para poder probar mis conocimientos de programación.
-
 # Juego de Ping-Pong
 El tenis de mesa (también conocido como ping-pong o pimpón) es un deporte de raqueta que se disputa entre dos jugadores o dos parejas (dobles). Es un deporte olímpico desde Seúl 1988, y el deporte con mayor número de practicantes, con 40 millones de jugadores compitiendo en todo el mundo. Según un estudio realizado por la NASA, es el deporte más complicado que un ser humano puede practicar a nivel profesional. Diversos estudios han demostrado que la práctica de este deporte mejora, entre otras, la capacidad y el tiempo de reacción, la coordinación ojo-mano, la concentración y la memoria.
 
