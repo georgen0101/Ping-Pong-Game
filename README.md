@@ -5,6 +5,12 @@ Este programa permitira a los usuarios poder jugar ping-pong en Python 3. Tendra
 
 Este proyecto es gracias a la libreria de turtle.
 
+# Correr el programa
+* Descarga el repositorio
+* Descomprimir la carpeta
+* Abrir la terminal y escribir la dirección de la carpeta
+* Correr main.py
+
 # Algoritmo
 
 * Importar las librerias a utilizar
