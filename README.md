@@ -3,7 +3,7 @@ El tenis de mesa (también conocido como ping-pong o pimpón) es un deporte de r
 
 Este programa permitira a los usuarios poder jugar ping-pong en Python 3. Tendra dos jugadores que podran controlar las raquetas, con cada golpe a la pelota aumentara de velocidad hasta que un jugador deje entrar la pelota, entonces el rival obtendra un punto en el marcador. Es interesante emplear este ptoyecto porque usaremos clases para crearlo.
 
-Este proyecto es gracias a la libreria de turtle y time
+Este proyecto es gracias a la libreria de turtle y time.
 
 
 # Intrucciones
