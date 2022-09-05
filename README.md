@@ -9,7 +9,7 @@ Este proyecto es gracias a la libreria de turtle y time.
 # Intrucciones
 
 El jugador 1 (derecha) se movera con las teclas de dirección arriba y abajo.
-El jugador 2 (izquirda) se movera con w (arriba) y s (abajo).
+El jugador 2 (izquierda) se movera con w (arriba) y s (abajo).
 
 
 # Correr el programa
