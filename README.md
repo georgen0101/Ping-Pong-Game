@@ -26,3 +26,7 @@ El jugador 2 (izquierda) se movera con w (arriba) y s (abajo).
 * Utilizar loops para hacer que el programa se mantenga corriendo hasta que los jugadores esten satifechos con el marcador.
 * Usar main para inicializar los valores de turtle que vamos a utilizar para el juego.
 * Permitir salir al usuario con un boton de salida.
+
+# Pre-requisitos
+
+* Importar turtle y time
