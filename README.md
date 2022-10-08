@@ -1,32 +1,43 @@
 # Juego de Ping-Pong
 El tenis de mesa (también conocido como ping-pong o pimpón) es un deporte de raqueta que se disputa entre dos jugadores o dos parejas (dobles). Es un deporte olímpico desde Seúl 1988, y el deporte con mayor número de practicantes, con 40 millones de jugadores compitiendo en todo el mundo. Según un estudio realizado por la NASA, es el deporte más complicado que un ser humano puede practicar a nivel profesional. Diversos estudios han demostrado que la práctica de este deporte mejora, entre otras, la capacidad y el tiempo de reacción, la coordinación ojo-mano, la concentración y la memoria.
 
-Este programa permitira a los usuarios poder jugar ping-pong en Python 3. Tendra dos jugadores que podran controlar las raquetas, con cada golpe a la pelota aumentara de velocidad hasta que un jugador deje entrar la pelota, entonces el rival obtendra un punto en el marcador. Es interesante emplear este ptoyecto porque usaremos clases para crearlo.
+# Version 2.0
+Actualización de librería de gráficos para el juego, jugabilidad y correción de bugs.
 
-Este proyecto es gracias a la libreria de turtle y time.
+----
+Este programa permitira a los usuarios poder jugar ping-pong en Python 3. Tendra dos jugadores que podran controlar las raquetas. El programa solo tiene la libreria pygame.
+
+Este proyecto es gracias a la librería de pygame.
+
+# Instalación de librería
+En la terminal de python tedremos que escribir lo siguente:
+`pip intall pygame`
+
+En caso de que el primer metodo no funcione, utilizar los siguentes:
+```
+pip3 intall pygame
+python -m pip install pygames
+python3 -m pip install pygames
+```
+Si persiste el error leer el documento de PyPA: [Documentación](https://packaging.python.org/en/latest/tutorials/installing-packages/).
 
 
-# Intrucciones
+# Controles del juego
 
-El jugador 1 (derecha) se movera con las teclas de dirección arriba y abajo.
-El jugador 2 (izquierda) se movera con w (arriba) y s (abajo).
+El jugador 1 (izquierda) se movera con las teclas de W y S.
+El jugador 2 (derecha) se movera con las teclas de dirección Arriba y Abajo.
 
-
-# Correr el programa
-
-* Descarga el repositorio
-* Descomprimir la carpeta
-* Abrir la terminal y escribir la dirección de la carpeta
-* Correr main.py
 
 # Algoritmo
 
-* Importar librerias Turtle y Time.
-* Definir clases para la pelota, las raquetas y el marcador utilizando funciones y variables.
-* Utilizar loops para hacer que el programa se mantenga corriendo hasta que los jugadores esten satifechos con el marcador.
-* Usar main para inicializar los valores de turtle que vamos a utilizar para el juego.
-* Permitir salir al usuario con un boton de salida.
+* Definir clases para la raqueta y la pelota.
+* Crear la función de dibujo para pasar los datos a la pantalla.
+* Crear la función de detección de colisiones con las raquetas o bordes.
+* Crear la función de movimiento para mover las raquetas.
+* Hacer main y crear los objetos de las clases.
+* Hacer el loop principal en main en que el juego va a funcionar.
 
-# Pre-requisitos
+# Proxima actualización 3.0
+Integrare un AI utlizando NeuroEvolution of Augmenting Topologies es un algoritmo que puede evolucioanr creando conexiones neuronales artificales, similar a las nuestras. Tratare de explicar en la siguente entrega todo el procedimiento para implementarlo a mi juego.
 
-* Importar turtle y time
+
