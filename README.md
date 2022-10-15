@@ -36,8 +36,3 @@ El jugador 2 (derecha) se movera con las teclas de dirección Arriba y Abajo.
 * Crear la función de movimiento para mover las raquetas.
 * Hacer main y crear los objetos de las clases.
 * Hacer el loop principal en main en que el juego va a funcionar.
-
-# Proxima actualización 3.0
-Integrare un AI utlizando NeuroEvolution of Augmenting Topologies es un algoritmo que puede evolucioanr creando conexiones neuronales artificales, similar a las nuestras. Tratare de explicar en la siguente entrega todo el procedimiento para implementarlo a mi juego.
-
-
